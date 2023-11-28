@@ -29,4 +29,10 @@ Section 3: Intermediate swift
 
 Date: 22/11/2023
 - ABI Stability
-- Swift 5 coding changes 
+- Swift 5 coding changes
+
+Date: 23/11/2023 , 24/11/2023, 28/11/2023
+Section 4: Swift package manager
+Section 5: Making an iphone app
+
+
